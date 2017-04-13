@@ -1,0 +1,2 @@
+#!/bin/sh
+finger "$1"
